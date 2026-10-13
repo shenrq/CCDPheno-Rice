@@ -1,0 +1,4 @@
+# Placeholder for the fused rice distribution maps.
+# Expected layout: rice-map/<year>/China-staple-crops-<province>-<year>-fusion_range-v1.tif
+#                  rice-map/<year>/CCD-Rice-<province>-<year>-fusion_range-v1.tif  (Tianjin/Hebei <= 2016)
+#                  rice-map/<year>/CCD-Rice-<province>-<year>-v1.tif              (used for station extraction)

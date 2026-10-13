@@ -1,0 +1,2 @@
+# Placeholder for the 30 m 8-day NDVI product.
+# Expected layout: ndvi/<province>/<province>_P20WR10_<year><jday>_8Day_..._Uint8.tif

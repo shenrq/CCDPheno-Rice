@@ -1,0 +1,3 @@
+[submodule "external/SMFS-RF"]
+	path = external/SMFS-RF
+	url = https://github.com/shenrq/SMFS-RF.git
